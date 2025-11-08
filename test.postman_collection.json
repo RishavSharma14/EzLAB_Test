@@ -1,0 +1,33 @@
+{
+	"info": {
+		"_postman_id": "9e14dcfa-b8a0-4c0b-8f1c-b83de7a041ab",
+		"name": "test",
+		"schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json",
+		"_exporter_id": "47285897",
+		"_collection_link": "https://www.postman.com/shrmarishav05-8674931/workspace/test/collection/47285897-9e14dcfa-b8a0-4c0b-8f1c-b83de7a041ab?action=share&source=collection_link&creator=47285897"
+	},
+	"item": [
+		{
+			"name": "New Request",
+			"request": {
+				"method": "POST",
+				"header": [],
+				"url": {
+					"raw": "https://venambackend.ezlab.in/api/contact-us/",
+					"protocol": "https",
+					"host": [
+						"venambackend",
+						"ezlab",
+						"in"
+					],
+					"path": [
+						"api",
+						"contact-us",
+						""
+					]
+				}
+			},
+			"response": []
+		}
+	]
+}
